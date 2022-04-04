@@ -1,0 +1,141 @@
+body {
+    background: #bfacaa;
+}
+
+h1{
+color: #75150b;
+
+}
+h2 {
+    font-size: 54px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #75150b;
+    display: block;
+}
+
+.Head {
+    text-align: center;
+    color: #434242;
+    font-size: 21px;
+    font-weight: 300;
+    margin-top: 20px; 
+}
+
+.Head1 {
+    text-align: center;
+  
+}
+
+hr {
+    width: 75%;
+}
+ 
+p {
+    font-family: "Purisa";
+    font-size: 17px;
+    color: #434242;
+text-align:right;
+}
+
+q {
+    font-family: "Purisa";
+    font-size: 17px;
+    color: #434242;
+}
+
+.Image { 
+    box-sizing : border-box : 300px;
+    border-style: solid;
+    border-color: rgb(139, 174, 214);
+    height: 200px;
+    width: 170px;
+    margin-left: 55%;
+    margin-bottom: 6%;
+}
+.Image1 { 
+    box-sizing : border-box : 300px;
+    border-style: solid;
+    border-color: rgb(139, 174, 214);
+    height: 200px;
+    width: 170px;
+    margin-left: 55%;
+    margin-bottom: 5%;
+}
+
+.Image2 { 
+    box-sizing : border-box : 300px;
+    border-style: solid;
+    border-color: rgb(139, 174, 214);
+    height: 200px;
+    width: 170px;
+    margin-right: 200%;
+    margin-bottom: -20%;
+}
+
+.Image:hover .Hidden{
+    visibility: visible;
+}
+
+.About{
+    margin-left: 13%;
+    margin-top: -25%;
+    width: 25%;
+}
+
+
+
+.Heading1 {
+    font-size: 25px;
+    font-weight: 300;
+    color: #75150b;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 3%;
+}
+
+.Heading {
+    font-size: 25px;
+    font-weight: 300;
+    color: #75150b;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 15%;
+}
+
+.Heading2 {
+    font-size: 25px;
+    font-weight: 300;
+    color: #75150b;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 55%;
+    text-align: left;
+    
+}
+
+
+
+ul {
+    margin-left: -3.5%;
+    list-style: none;
+}
+
+
+
+.Fav_Website {
+    margin-left: 44.5%;
+    margin-top: 8%;
+}
+
+.Link {
+    background-color: #75150b;
+    text-align: center;
+    margin-left: 40%;
+    width: 150px;
+    height: 30px;
+}
+
+.href {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: "Purisa";
+}
